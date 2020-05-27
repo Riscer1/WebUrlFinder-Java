@@ -8,3 +8,6 @@ aktualnej domeny i przechodzi do kolejnego linku powtarzając cały proces wyszu
 Jeżeli na stronie nie będzie słów kluczowych aplikacja nie powinna zapisywać strony.
 Wynikiem działanie aplikacji powinno być zestawienie uzyskanych linków oraz słowa
 kluczowe zawarte na stronie.
+## Licencja
+
+Projekt udostępniony na licencji MIT
